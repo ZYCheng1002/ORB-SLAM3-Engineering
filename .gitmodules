@@ -1,0 +1,3 @@
+[submodule "thirdparty/pangolin"]
+	path = thirdparty/pangolin
+	url = https://github.com/ZYCheng1002/pangolin.git
