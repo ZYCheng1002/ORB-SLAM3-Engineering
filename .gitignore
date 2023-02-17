@@ -1,5 +1,6 @@
 # 编辑器产生
 .idea/
+cmake-build-debug/
 
 # 编译产生
 build/
